@@ -6,7 +6,7 @@ var app = new Vue({
     data: {
         question: '',
         answer: 'I cannot give you an answer until you ask a question!',
-        url: 'http://www.vipkid.com.cn'
+        url: 'http://www.google.com'
     },
 
     created: function () {
